@@ -1,0 +1,17 @@
+Hack Facebook Friendlist dengan auto password
+
+pkg install git
+git clone https://github.com/hckable/autombf
+pkg install python2
+pip2 install mechanize
+pip2 install requests
+pip2 install bs4
+cd autombf
+python2 kontol.py
+login
+enter thread (int) : 6
+liat hasil?
+pkg install nano
+nano multiresult.txt
+atau
+nano checkpoint.txt (lihat hasil yg ceckpoint)
